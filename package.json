@@ -1,6 +1,6 @@
 {
   "name": "commit-conventions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared source of truth for conventionall commit types, consumed by commitlint and release-it configs",
   "homepage": "https://github.com/jorkab/commit-conventions#readme",
   "bugs": {
