@@ -46,4 +46,4 @@ const releaseIt = {
     }
 }
 
-module.exports = process.env.ACTION_CONFIG === "commitlint"  ? commitlint : releaseIt;
+module.exports = { commitlint, releaseIt }
